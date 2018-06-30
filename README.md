@@ -1,2 +1,2 @@
 # Hello-World
-Hello World github test
+This is a github branch test to better understand how merge works.
